@@ -139,11 +139,13 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="extern.cpp" />
     <ClCompile Include="h&amp;cpp.cpp" />
     <ClCompile Include="ref&amp;ptr.cpp" />
     <ClCompile Include="scope.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="extern.h" />
     <ClInclude Include="h&amp;cpp.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
