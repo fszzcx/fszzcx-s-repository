@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="h&amp;cpp.cpp" />
+    <ClCompile Include="ref&amp;ptr.cpp" />
     <ClCompile Include="scope.cpp" />
   </ItemGroup>
   <ItemGroup>

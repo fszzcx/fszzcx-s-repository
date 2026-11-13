@@ -21,6 +21,9 @@
     <ClCompile Include="scope.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ref&amp;ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="h&amp;cpp.h">
