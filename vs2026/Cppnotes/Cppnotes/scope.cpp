@@ -33,24 +33,24 @@
 
 
 //ASHC||码
-#include <iostream>
-int main() {
-	char g = 'a';
-	char h = 'b';
-	std::cout << (int)g << std::endl;
-	std::cout << (int)h << std::endl;
-
-	
-
-
-
-	void sizeofnum(); {
-		std::cout << "Size of char: " << sizeof(char) << " bytes\n";
-		std::cout << "Size of int: " << sizeof(int) << " bytes\n";
-		std::cout << "Size of float: " << sizeof(float) << " bytes\n";
-		std::cout << "Size of double: " << sizeof(double) << " bytes\n";
-		std::cout << "Size of long long: " << sizeof(long long) << " bytes\n";
-
-	}
-	return 0;
-}
+//#include <iostream>
+//int main() {
+//	char g = 'a';
+//	char h = 'b';
+//	std::cout << (int)g << std::endl;
+//	std::cout << (int)h << std::endl;
+//
+//	
+//
+//
+//
+//	void sizeofnum(); {
+//		std::cout << "Size of char: " << sizeof(char) << " bytes\n";
+//		std::cout << "Size of int: " << sizeof(int) << " bytes\n";
+//		std::cout << "Size of float: " << sizeof(float) << " bytes\n";
+//		std::cout << "Size of double: " << sizeof(double) << " bytes\n";
+//		std::cout << "Size of long long: " << sizeof(long long) << " bytes\n";
+//
+//	}
+//	return 0;
+//}
