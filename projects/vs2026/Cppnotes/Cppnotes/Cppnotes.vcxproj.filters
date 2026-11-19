@@ -27,6 +27,9 @@
     <ClCompile Include="extern.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="constpro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="h&amp;cpp.h">
