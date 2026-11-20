@@ -146,6 +146,7 @@
     <ClCompile Include="scope.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="constpro.h" />
     <ClInclude Include="extern.h" />
     <ClInclude Include="h&amp;cpp.h" />
   </ItemGroup>
