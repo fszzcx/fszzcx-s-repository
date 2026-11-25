@@ -139,11 +139,8 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="constpro.cpp" />
-    <ClCompile Include="extern.cpp" />
-    <ClCompile Include="h&amp;cpp.cpp" />
-    <ClCompile Include="ref&amp;ptr.cpp" />
-    <ClCompile Include="scope.cpp" />
+    <ClCompile Include="basicgrammar.cpp" />
+    <ClCompile Include="decltype.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constpro.h" />
